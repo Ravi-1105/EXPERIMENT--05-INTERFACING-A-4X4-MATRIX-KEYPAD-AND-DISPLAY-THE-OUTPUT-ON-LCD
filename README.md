@@ -181,8 +181,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 ```
 /*
-Developed by: Cynthia Mehul J
-Reg no.:212223240020
+Developed by: RAVIVARMAN G S
+Reg no.:212223100044
 */
 #include "main.h"
 #include <stdbool.h>
